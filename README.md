@@ -2,7 +2,7 @@
 
 Beautiful icons for Burp Suite based on macOS Big Sur design.
 
-![Preview](preview.png)
+![Preview](Preview.png)
 
 ![License](https://img.shields.io/github/license/mohouyizme/vscode-big-sur-icons?style=flat-square)
 ![Gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square)
